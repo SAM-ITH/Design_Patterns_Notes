@@ -1,4 +1,4 @@
-# Design Patterns
+# Design Patterns in Swift
 
 - design patterns are common architectural approaches 
 - design patterns are relevant to all the languages that using object oriented methods  
