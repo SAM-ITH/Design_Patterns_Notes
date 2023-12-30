@@ -3,5 +3,10 @@ public class Main {
         Duck mallard = new MallardDuck();
         mallard.quack();
         mallard.display();
+        ((Flyable) mallard).fly();
+
+        Duck redHead = new RedheadDuck();
+        redHead.quack();
+        redHead.display();
     }
 }
